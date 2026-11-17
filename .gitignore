@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Local configuration
+.env
+.env.*
+
+# PyCharm
+.idea/
+
+# Input research papers
+data/raw_pdfs/
+
+# Generated outputs
+data/extracted_text/
+data/logs/
+
+# Operating system files
+.DS_Store
+Thumbs.db

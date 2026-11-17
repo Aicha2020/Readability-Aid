@@ -1,0 +1,5 @@
+pdfplumber
+pypdf
+textstat
+requests
+python-dotenv
